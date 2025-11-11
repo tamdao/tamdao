@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: 🦑 Achievements
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@projects-v2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: achievements.svg
