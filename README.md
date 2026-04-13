@@ -1,5 +1,8 @@
 ## My Projects
 
+### [Uprika](https://uprika.com) 🎯
+Desktop app for App Store Optimization — AI-powered keyword research, expand market, listing generation, competitor analysis, and a screenshot builder with 86+ templates. Supports direct publishing to App Store & Google Play, with all data stored locally.
+
 ### [Ronin](https://roninapply.com) 🥷
 AI-powered desktop app that automates job hunting and applications — entirely on-device. Discovers matching positions, auto-fills forms across any job board, and tailors resumes — all without your data ever leaving your machine.
 
