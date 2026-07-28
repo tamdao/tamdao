@@ -1,3 +1,15 @@
+## Security Research
+
+Independent vulnerability research, mostly on Apple platforms. Credited under the handle `tamdao`.
+
+<!-- Newest first. Date = vendor advisory release (YYYY-MM). Class = bug class; full impact text lives in the linked advisory. -->
+
+| Date | CVE | Vendor | Component | Class | Advisory |
+|------|-----|--------|-----------|-------|----------|
+| 2026-07 | [CVE-2026-43748](https://nvd.nist.gov/vuln/detail/CVE-2026-43748) | Apple | Apple Neural Engine | Out-of-bounds write | [macOS Tahoe 26.6](https://support.apple.com/en-us/128067) · [macOS Sequoia 15.7.8](https://support.apple.com/en-us/128071) |
+
+---
+
 ## My Projects
 
 ### [Uprika](https://uprika.com) 🎯
