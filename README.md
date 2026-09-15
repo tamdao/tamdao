@@ -6,7 +6,13 @@ Independent vulnerability research, mostly on Apple platforms. Credited under th
 
 | Date | CVE | Vendor | Component | Class | Advisory |
 |------|-----|--------|-----------|-------|----------|
+| 2026-09 | [CVE-2026-65408](https://nvd.nist.gov/vuln/detail/CVE-2026-65408) | Apple | Apple Neural Engine | Integer overflow | [macOS Golden Gate 27](https://support.apple.com/en-us/149035) |
+| 2026-09 | [CVE-2026-84624](https://nvd.nist.gov/vuln/detail/CVE-2026-84624) | Apple | CoreML | Permissions / path validation | [macOS Golden Gate 27](https://support.apple.com/en-us/149035) |
 | 2026-07 | [CVE-2026-43748](https://nvd.nist.gov/vuln/detail/CVE-2026-43748) | Apple | Apple Neural Engine | Out-of-bounds write | [macOS Tahoe 26.6](https://support.apple.com/en-us/128067) · [macOS Sequoia 15.7.8](https://support.apple.com/en-us/128071) |
+
+<sub>The September 2026 issues shipped across iOS 26.7 / 27, iPadOS 26.7 / 27, macOS Sequoia 15.8, macOS Tahoe 26.7, macOS Golden Gate 27, and (CVE-2026-84624) visionOS 27 — see the NVD entry for the full advisory list.</sub>
+
+**Additional recognition** — acknowledged by Apple for assistance on **AVEVideoEncoder** in [macOS Golden Gate 27](https://support.apple.com/en-us/149035) (no CVE assigned).
 
 ---
 
